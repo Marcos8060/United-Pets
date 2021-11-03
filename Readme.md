@@ -32,6 +32,7 @@ GitHub Pages is designed to host your personal, organization, or project pages f
 * It's should also be beautiful. Don't use any CSS and use only bootstrap classes
 
 ## Project Design
+![Design](./Images/figma1.png);
 
 
 ## Credits
